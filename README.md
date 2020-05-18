@@ -2,6 +2,9 @@
 
 (c) Nikita Shubin, 2020
 
+[![Build Status](https://travis-ci.org/maquefel/incron-ng.svg?branch=master)](https://travis-ci.org/maquefel/incron-ng)
+[![Coverage Status](https://coveralls.io/repos/github/maquefel/incron-ng/badge.svg?branch=master)](https://coveralls.io/github/maquefel/incron-ng?branch=master)
+
 ## Content
 
 1. About
