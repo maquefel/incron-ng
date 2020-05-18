@@ -116,3 +116,6 @@ version 2  (see LICENSE-GPL).
 
 Some parts may be also covered by other licenses.
 Please look into the source files for detailed information.
+
+# SPDX-FileCopyrightText: 2020 Nikita Shubin <me@maquefel.me>
+# SPDX-License-Identifier: CC0-1.0

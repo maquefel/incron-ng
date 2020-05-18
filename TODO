@@ -1,0 +1,12 @@
+Currently pending tasks:
+
+* reload tabs when changed
+* rearmable delay before executing hook
+* shadow (i.e. non-existant) path
+* add timestampt variable for passing to hooks
+* singleshot hooks
+* loopable hooks
+* recursive monitoring (whole subtrees)
+
+# SPDX-FileCopyrightText: 2020 Nikita Shubin <me@maquefel.me>
+# SPDX-License-Identifier: CC0-1.0
